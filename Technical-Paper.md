@@ -9,10 +9,8 @@
 * ### Data-link layer
 * ### Physical layer
 * ### References 
-<p>
 
----
-</p>
+<hr>
 
 ##  Summary
 <p>There are 7 layers in the OSI reference model and they are represented as below.</p>
