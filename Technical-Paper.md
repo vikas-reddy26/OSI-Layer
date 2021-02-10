@@ -20,7 +20,6 @@
 <br/>
 
 <p>
-s
 OSI model is designed to understand how data is transferred between two computers. Consider there are two computers connected via LAN but both the computers are using different operating systems, then how these two computers are going to communicate with each other?
 To establish better communication between two networks or computers, 7 layered Open Systems Interconnection (OSI) model was proposed by International Organization for Standardization (ISO) in 1984.
 </p>
@@ -144,7 +143,4 @@ There are four functions of the Physical layer:
 <br/>
 
 ---
-# Technical-Paper
-# OSI
-# OSI-layers
-# OSI-layers
+
